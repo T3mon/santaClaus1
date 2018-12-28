@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "santaClaus", "santaClaus\santaClaus.vcxproj", "{845C5F2A-7701-4418-8C40-3C772BE61951}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{845C5F2A-7701-4418-8C40-3C772BE61951}.Debug|x64.ActiveCfg = Debug|x64
+		{845C5F2A-7701-4418-8C40-3C772BE61951}.Debug|x64.Build.0 = Debug|x64
+		{845C5F2A-7701-4418-8C40-3C772BE61951}.Debug|x86.ActiveCfg = Debug|Win32
+		{845C5F2A-7701-4418-8C40-3C772BE61951}.Debug|x86.Build.0 = Debug|Win32
+		{845C5F2A-7701-4418-8C40-3C772BE61951}.Release|x64.ActiveCfg = Release|x64
+		{845C5F2A-7701-4418-8C40-3C772BE61951}.Release|x64.Build.0 = Release|x64
+		{845C5F2A-7701-4418-8C40-3C772BE61951}.Release|x86.ActiveCfg = Release|Win32
+		{845C5F2A-7701-4418-8C40-3C772BE61951}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72FB6CE3-FAE7-4353-BA57-2D79CDCE1C86}
+	EndGlobalSection
+EndGlobal
